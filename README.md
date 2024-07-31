@@ -23,3 +23,8 @@ import component from './path'
 named export
  export const component
  import { component} from './path'
+
+ # React Hooks
+ (Normal JS functions)
+ useState()
+ useEffect()

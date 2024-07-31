@@ -191,7 +191,7 @@ const resobj =[{
         "Ice Cream",
         "Bakery"
       ],
-      "avgRating": 5,
+      "avgRating": 3.5,
       "veg": true,
       "parentId": "21932",
       "avgRatingString": "5.0",
