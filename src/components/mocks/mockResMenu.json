@@ -1,0 +1,521 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "Healthy Bites",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "769851",
+                            "name": "Healthy Bites",
+                            "city": "Chhindwara",
+                            "slugs": {
+                                "restaurant": "healthy-bites-chhindwara-city-chhindwara-city",
+                                "city": "chhindwara"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "4dfbe240cf1a2be01e6f2805c75c4279",
+                            "locality": "Collectrate Road",
+                            "areaName": "Chhindwara City",
+                            "costForTwo": "25000",
+                            "costForTwoMessage": "₹250 for two",
+                            "cuisines": [
+                                "Salads"
+                            ],
+                            "veg": true,
+                            "feeDetails": {
+                                "restaurantId": "769851",
+                                "fees": [
+                                    {
+                                        "name": "TYPE_DISTANCE",
+                                        "fee": 7400
+                                    },
+                                    {
+                                        "name": "TYPE_TIME"
+                                    }
+                                ],
+                                "totalFee": 7400,
+                                "title": "Delivery Charge",
+                                "amount": "7400",
+                                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                                "message": "Order above 149 for discounted delivery fee"
+                            },
+                            "parentId": "3143",
+                            "avgRatingString": "--",
+                            "totalRatingsString": "Too Few Ratings",
+                            "sla": {
+                                "restaurantId": "769851",
+                                "deliveryTime": 54,
+                                "minDeliveryTime": 50,
+                                "maxDeliveryTime": 55,
+                                "lastMileTravel": 11.3,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_IT_IS_LONG_DISTANCE",
+                                "zoneId": 2218,
+                                "slaString": "50-55 MINS",
+                                "lastMileTravelString": "11.3 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2024-08-19 22:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat ₹200 off | Use AXIS200 Above ₹1000",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "30% off upto ₹150 |  Use AXIS30 Above ₹200",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "healthy-bites-chhindwara-city-chhindwara-city",
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Collectrate Road Purani Labour Court Gali Gulabra Chhindwara 480001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Salads"
+                                }
+                            ],
+                            "logo": "Brand logo/GlobalPunjab",
+                            "aggregatedDiscountInfoV2": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat ₹200 off | Use AXIS200 Above ₹1000",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "30% off upto ₹150 |  Use AXIS30 Above ₹200",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/769851"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "text": "Order above 149 for discounted delivery fee",
+                                    "icon": {
+                                        "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_NON_FOOD_LM",
+                                    "enrichedText": "Order above 149 for discounted delivery fee",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    },
+                                    "trailingIcon": {}
+                                }
+                            ],
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "22.0553651,78.932901399999",
+                            "externalRatings": {
+                                "aggregatedRating": {
+                                    "rating": "--"
+                                },
+                                "source": "GOOGLE",
+                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                            },
+                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                            "backgroundImageOverlayInfo": {}
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 3,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "Extra ₹20 off",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/d07196b25b85d1fd9951e10c255ab737",
+                                            "offerIds": [
+                                                "d49772c5-06fc-42eb-b9d7-01aadeaef879"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "description": "APPLICABLE OVER & ABOVE COUPONS",
+                                            "offerType": "offers",
+                                            "restId": "769851",
+                                            "offerLogo": "rng/md/ads/production/d07196b25b85d1fd9951e10c255ab737",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹200 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/d2b89c98-2528-4370-a271-ea127127ad2d_Axis.png",
+                                            "offerIds": [
+                                                "19096af1-e158-440f-abfe-129ebd0a67b8"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXIS200",
+                                            "description": "ABOVE ₹1000",
+                                            "offerType": "offers",
+                                            "restId": "769851",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/d2b89c98-2528-4370-a271-ea127127ad2d_Axis.png",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "30% OFF UPTO ₹150",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
+                                            "offerIds": [
+                                                "a2812cd5-616f-47e9-81e6-04d650f77d20"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXIS30",
+                                            "description": "ABOVE ₹200",
+                                            "offerType": "offers",
+                                            "restId": "769851",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "isPureVeg": true,
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124896830",
+                                                            "name": "Fruit and nuts power milk                                                                                                                               ",
+                                                            "category": "Dry Fruits",
+                                                            "description": "Indulge in a nutritious blend of luscious fruits and crunchy nuts, combined with the power-packed goodness of milk.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124896833",
+                                                            "name": "Rich protein heighly grains oats loaded with dry fruits                                                                                                                              ",
+                                                            "category": "Dry Fruits",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Dry Fruits",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124896830",
+                                                            "name": "Fruit and nuts power milk                                                                                                                               ",
+                                                            "category": "Dry Fruits",
+                                                            "description": "Indulge in a nutritious blend of luscious fruits and crunchy nuts, combined with the power-packed goodness of milk.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124896833",
+                                                            "name": "Rich protein heighly grains oats loaded with dry fruits                                                                                                                              ",
+                                                            "category": "Dry Fruits",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 21423210000970"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Healthy Bites",
+                                            "area": "Chhindwara City",
+                                            "completeAddress": "Collectrate Road Purani Labour Court Gali Gulabra Chhindwara 480001"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "e9b85021-c737-4bee-bdb3-9be5ea489211",
+    "sid": "fmgb7ce5-3258-4bc1-994c-e91080360cb5",
+    "deviceId": "e8f5b057-9e34-7328-6072-e62add1af836",
+    "csrfToken": "t4yHzKL3Znze-uYevveOi0BYCxT2GMTq6zayOLP8"
+}

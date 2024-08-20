@@ -28,3 +28,17 @@ named export
  (Normal JS functions)
  useState()
  useEffect()
+
+
+ # redux toolkit
+ - install @reduxjs/toolkit and react-redux
+ - Build our store
+ - connect our store to our app
+ - create slice (cart slice) 
+ - dispatch action
+ - selector
+
+ # types of developer testing
+ - Unit Testing
+ - Integration Testing
+ - End-to-end testing 

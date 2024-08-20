@@ -20,7 +20,7 @@ const Header = () => {
                     <li className="px-4">  <Link to="/about">About</Link> </li>
                     <li className="px-4"> <Link to='/grocery'>Grocery</Link></li>
                     <li className="px-4"><Link to="/contact">Contact</Link> </li>
-                    <li className="px-4 font-bold"><Link to="/cart">cart ({cartitems.length})</Link></li>
+                    <li className="px-4 font-bold"><Link to="/cart">cart-({cartitems.length})</Link></li>
                     <li className="px-4">{data.loggedIn}</li>
                 </ul>
             </div>

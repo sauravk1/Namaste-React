@@ -1,0 +1,70 @@
+{
+    "info": {
+        "id": "234875",
+        "name": "Adil Hotel",
+        "cloudinaryImageId": "gp1ityra6utvzqn6ghnv",
+        "locality": "Rautha Wada",
+        "areaName": "Chhindwara Locality",
+        "costForTwo": "₹150 for two",
+        "cuisines": [
+            "North Indian",
+            "Biryani",
+            "Tandoor"
+        ],
+        "avgRating": 4.3,
+        "parentId": "27123",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "500+",
+        "sla": {
+            "deliveryTime": 47,
+            "lastMileTravel": 12.6,
+            "serviceability": "SERVICEABLE",
+            "slaString": "45-50 mins",
+            "lastMileTravelString": "12.6 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-08-18 23:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹151 OFF",
+            "subHeader": "ABOVE ₹349",
+            "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    }
+
+}
